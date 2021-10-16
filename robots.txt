@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://syair77.github.io/post/sitemap.xml
